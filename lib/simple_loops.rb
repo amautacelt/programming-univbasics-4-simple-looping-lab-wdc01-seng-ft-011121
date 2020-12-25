@@ -43,4 +43,4 @@ def return_string_array(array)
   new_array
 end
 
-return_string_array([5, 4, 3, 2, 1])
+puts return_string_array([5, 4, 3, 2, 1])
