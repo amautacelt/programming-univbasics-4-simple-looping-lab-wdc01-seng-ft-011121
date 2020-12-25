@@ -30,4 +30,4 @@ def output_array(array)
   end
 end
 
-output_array()
+output_array(["Be yourself"])
