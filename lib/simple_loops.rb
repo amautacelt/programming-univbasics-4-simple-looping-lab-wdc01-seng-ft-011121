@@ -34,7 +34,7 @@ output_array(["Be yourself;\n", "everyone else is already taken\n", "-Oscar Wild
 
 
 def return_string_array(array)
-  count = 3
+  count = 0
   new_array = []
   while count < array.length do
     new_array.push(array[count].to_s)
