@@ -30,4 +30,4 @@ def output_array(array)
   end
 end
 
-output_array(["Be yourself"])
+output_array(["Be yourself;\n", "everyone else is already taken"])
