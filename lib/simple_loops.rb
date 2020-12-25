@@ -43,4 +43,4 @@ def return_string_array(array)
   new_array
 end
 
-output_array(["Be yourself;\n", "everyone else is already taken\n", "-Oscar Wilde"])
+return_string_array([5, 4, 3, 2, 1])
