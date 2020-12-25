@@ -40,7 +40,7 @@ def return_string_array(array)
     new_array.push(array[count].to_s)
     count += 1
   end
-  new_array
+  #new_array
 end
 
 puts return_string_array([5, 4, 3, 2, 1])
