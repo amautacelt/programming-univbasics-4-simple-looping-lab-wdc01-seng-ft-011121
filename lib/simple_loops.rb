@@ -15,7 +15,7 @@ def loop_message_n_times(message, number)
   count = 0
   while count < number do
     puts message
-    count =+ 1
+    count += 1
   end
 end
 
