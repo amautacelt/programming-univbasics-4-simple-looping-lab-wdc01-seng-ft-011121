@@ -8,7 +8,7 @@ def loop_message_five_times(message)
   end
 end
 
-#loop_message_five_times("Hello World.\n")
+loop_message_five_times("Hello World.\n")
 
 
 def loop_message_n_times(message, number)
